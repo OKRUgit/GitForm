@@ -2,5 +2,8 @@
     "projectManager.vscode.baseFolders": [
         "/home/oky/LIN-git-yvs/",
         "/home/oky/LIN-git/"
+    ],
+    "projectManager.git.baseFolders": [
+        "/yvs/Общая-папка-YVS/Git-forum/"
     ]
 }
