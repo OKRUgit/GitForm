@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../esp8266"
+		},
+		{
+			"name": "GitForm",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
