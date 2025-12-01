@@ -4,6 +4,8 @@
         "/home/oky/LIN-git/"
     ],
     "projectManager.git.baseFolders": [
-        "/yvs/Общая-папка-YVS/Git-forum/"
+        "/yvs/Общая-папка-YVS/Git-forum/",
+        "/home/ok/Arduino/MOI_chemi/",
+        "/home/okk/GitHub/txt/"
     ]
 }
